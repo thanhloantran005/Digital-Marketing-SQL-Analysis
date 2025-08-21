@@ -9,5 +9,7 @@ Order By avg_rating Desc;
 ````
 **Answer:**
 
-<img width="213" height="112" alt="image" src="https://github.com/user-attachments/assets/7f6b1af9-cc6b-4556-85b5-d9cb13b5b5b0" />
+<img width="206" height="169" alt="Screenshot 2025-08-21 at 1 22 22 PM" src="https://github.com/user-attachments/assets/e5e65fb0-3cea-44be-80bc-466735f11940" />
 
+Snapchat has the highest rating of 3.3 and Tinder has the lowest rating of 2.7
+***
