@@ -1,7 +1,5 @@
 # Digital Marketing SQL Mini Case Study
 
-## 📌 Solution
-
 ### 1. Overall ROMI It is calculated ( Total earning (Revenue) - Marketing cost ) / Marketing cost )
 
 ````sql
