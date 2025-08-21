@@ -1,3 +1,11 @@
-# 🎯 Health Analytics Mini Case Study
+# 🎯 Multilingual App Mini Case Study
 
-## 1. How many unique users exist in the logs dataset?
+## 1. Which apps have the highest and lowest average ratings?
+````sql
+
+SELECT app_name, AVG(rating) AS avg_rating FROM App
+Group By app_name
+Order By avg_rating Desc;
+````
+**Answer:**
+
